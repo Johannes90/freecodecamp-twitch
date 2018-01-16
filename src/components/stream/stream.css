@@ -1,0 +1,32 @@
+.stream-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.stream-item {
+  border-bottom: 1px solid grey;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.stream-start {
+  display: flex;
+  align-items: center;
+}
+
+.stream-logo {
+  width: 2rem;
+  height: 100%;
+  border-radius: 100%;
+}
+
+.stream-name {
+  display: inline;
+  margin-left: 1rem;
+}
+
+.stream-status {
+  /* margin: auto; */
+}
